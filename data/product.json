@@ -1,0 +1,9 @@
+{
+    "name" : "Tenis Feminino",
+    "glbFile": "https://storage.googleapis.com/futuriza-assets/TENIS_v2_94a41271ef/TENIS_v2_94a41271ef.glb",
+    "variants": {
+        "AZUL": "blue",
+        "ROSA": "red",
+        "AMARELO": "yellow"
+    }
+}
